@@ -1,0 +1,12 @@
+
+# Executáveis
+*.exe
+*.o
+*.obj
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais
+.vscode/
